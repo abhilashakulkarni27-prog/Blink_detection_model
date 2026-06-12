@@ -106,4 +106,4 @@ As a result, left and right blink detections may appear visually reversed to the
 The model predictions themselves are not affected; only the displayed webcam preview is mirrored.
 ## Demo
 
-![BlinkVision Demo](assets/demo.gif)
+![BlinkVision Demo](Assets/demo.gif)
