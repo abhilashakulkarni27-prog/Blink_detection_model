@@ -1,3 +1,9 @@
+
+##Demo
+
+![BlinkVision Demo](Assets/demo.gif)
+
+
 # BlinkVision
 
 BlinkVision is a real-time blink detection system built using a custom CNN model and MediaPipe Face Landmarks.
@@ -104,6 +110,4 @@ The webcam feed shown in the demo is mirrored, similar to the preview displayed 
 As a result, left and right blink detections may appear visually reversed to the viewer. For example, a detected **left-eye blink** may appear as a **right-eye blink** in the displayed video feed.
 
 The model predictions themselves are not affected; only the displayed webcam preview is mirrored.
-## Demo
 
-![BlinkVision Demo](Assets/demo.gif)
